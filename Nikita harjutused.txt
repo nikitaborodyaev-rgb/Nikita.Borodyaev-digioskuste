@@ -1,10 +1,10 @@
 1. Millist funktsiooni kasutatakse Excelis, et arvutada lahtrite numbrite summa?
 
-vastus:=SUM
+vastus:=SUM()
 
 2. Mis on funktsiooni nimi, mis leiab numbrite keskmise väärtuse?
 
-vastus:
+vastus:=AVERAGE()
 
 3. Millist funktsiooni kasutatakse, et arvutada numbrite arv vahemikus?
 
