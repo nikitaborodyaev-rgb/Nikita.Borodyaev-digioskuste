@@ -1,6 +1,6 @@
 1. Millist funktsiooni kasutatakse Excelis, et arvutada lahtrite numbrite summa?
 
-vastus:
+vastus: SUM
 
 2. Mis on funktsiooni nimi, mis leiab numbrite keskmise väärtuse?
 
