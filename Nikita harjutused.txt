@@ -8,7 +8,7 @@ vastus:=AVERAGE()
 
 3. Millist funktsiooni kasutatakse, et arvutada numbrite arv vahemikus?
 
-vastus:
+vastus:=Ei tea
 
 4. Mis on funktsiooni nimi, mis näitab suurimat väärtust lahtrite vahemikus?
 
