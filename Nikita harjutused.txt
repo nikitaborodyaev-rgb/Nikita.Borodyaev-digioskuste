@@ -12,7 +12,7 @@ vastus:=Ei tea
 
 4. Mis on funktsiooni nimi, mis näitab suurimat väärtust lahtrite vahemikus?
 
-vastus:
+vastus:=MAX()
 
 5. Millist funktsiooni kasutatakse tabeli väikseima väärtuse leidmiseks?
 
