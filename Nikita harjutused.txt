@@ -4,7 +4,7 @@ vastus: SUM
 
 2. Mis on funktsiooni nimi, mis leiab numbrite keskmise väärtuse?
 
-vastus:
+vastus: AVERAGE
 
 3. Millist funktsiooni kasutatakse, et arvutada numbrite arv vahemikus?
 
