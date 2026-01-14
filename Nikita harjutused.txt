@@ -4,16 +4,16 @@ vastus: SUM
 
 2. Mis on funktsiooni nimi, mis leiab numbrite keskmise väärtuse?
 
-vastus: AVERAGE
+vastus: 
 
 3. Millist funktsiooni kasutatakse, et arvutada numbrite arv vahemikus?
 
-vastus: COUNT
+vastus: 
 
 4. Mis on funktsiooni nimi, mis näitab suurimat väärtust lahtrite vahemikus?
 
-vastus: MAX
+vastus: 
 
 5. Millist funktsiooni kasutatakse tabeli väikseima väärtuse leidmiseks?
 
-vastus: MIN
+vastus: 
