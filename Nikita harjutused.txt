@@ -16,4 +16,4 @@ vastus: MAX
 
 5. Millist funktsiooni kasutatakse tabeli väikseima väärtuse leidmiseks?
 
-vastus: 
+vastus: MIN
